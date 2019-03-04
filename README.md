@@ -1,3 +1,3 @@
 # multi-k8s
 
-Deleted cluster.
+[Deleted cluster.] Compiles, tags, deploys.
